@@ -12,4 +12,4 @@
 
 
 ## C++ 11
-### [auto](./main_01_auto.cpp)
+### [auto](main_010_auto.cpp)

@@ -1,9 +1,5 @@
 #include <iostream>
-
-template<typename T>
-void printType(const T &a) {
-	std::cout << typeid(a).name() << std::endl;
-}
+#include "myUtil.h"
 
 void first() {
 	auto i = new auto(1);// i is an `int*`
