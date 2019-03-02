@@ -1,15 +1,21 @@
-# Learn C++
+# Learn C++ (C++11)
+<!-- vscode-markdown-toc -->
+* 1. [C++ 11](#C11)
+	* 1.1. [auto](#auto)
+	* 1.2. [decltype](#decltype)
+	* 1.3. [模板默认值](#)
 
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
-* [Learn C++](#learn-c)
-	* [C++ 11](#c-11)
-		* [auto](#automain_01_autocpp)
-
-<!-- /code_chunk_output -->
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
 
 
-## C++ 11
-### [auto](main_010_auto.cpp)
+##  1. <a name='C11'></a>C++ 11
+###  1.1. <a name='auto'></a>auto
+[auto](./main_010_auto.cpp)
+###  1.2. <a name='decltype'></a>decltype
+[decltype](./main_011_decltype.cpp)
+###  1.3. <a name=''></a>模板默认值
+[模板默认值](./main_012_template_default_value.cpp)
