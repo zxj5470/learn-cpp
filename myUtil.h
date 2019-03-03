@@ -10,4 +10,11 @@ void printType(const T &a) {
 	std::cout << typeid(a).name() << std::endl;
 }
 
+
+template<typename T>
+void printIterable(const T &iterable) {
+	for(const auto& it:iterable){
+		std::cout << it << std::endl;
+	}
+}
 #endif //CPP11_MYUTIL_H
